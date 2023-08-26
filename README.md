@@ -21,6 +21,7 @@ Generate custom geosite and geoip based on [Loyalsoldier](https://github.com/Loy
   - `geosite:videoconference`
   - `geosite:rule-malicious`
   - `geosite:urltest`
+  - `geosite:rule-achmad`
 
 > More details for addtional [list](https://github.com/malikshi/v2ray-rules-dat/blob/b3f67d1c2cc83bb2a84ea117b1e0caa340f7a130/.github/workflows/run.yml#L20)
 
